@@ -1,12 +1,17 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace DemoMVc.Models
+namespace DemoMVC.Models
 {
     public class Movie
     {
         [Key]
         public int Id { get; set; }
+         [Required (ErrorMessage="Title is required.")]
+
+        [MaxLength (15)]
+
+        [MinLength (3)]
         public string Title { get; set; }
 
         [DataType(DataType.Date)]

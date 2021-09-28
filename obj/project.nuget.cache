@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NqTCaFTAtP6gWdna2BFv4pNhLmaFdGZ8cdeBAcPh45Eql6f8Ob0XxET8yXrbVHLGJQLwVr0K6BzHz4ZgPek3Sg==",
+  "dgSpecHash": "OqqxozqjzmZ6oK+sLl2/srWi2jJxVBuNs6a7YQ9d//ol822vmZiXSJDahhp4jMEXlEfpY5F/GgBiLy3EBHlATQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Documents\\netcore\\DemoMVc\\DemoMVC.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\netcore\\DemoMVC\\DemoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -1,10 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using DemoMVc.Data;
+using DemoMVC.Data;
 using System;
 using System.Linq;
 
-namespace DemoMVc.Models
+namespace DemoMVC.Models
 {
     public static class SeedData
     {

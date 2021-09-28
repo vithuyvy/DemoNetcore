@@ -2,11 +2,11 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using DemoMVc.Data;
-using DemoMVc.Models;
+using DemoMVC.Data;
+using DemoMVC.Models;
 using System;
 
-namespace DemoMVc
+namespace DemoMVC
 {
     public class Program
     {

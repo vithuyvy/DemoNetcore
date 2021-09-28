@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using DemoMVc.Models;
-namespace DemoMVc.Data
+using DemoMVC.Models;
+namespace DemoMVC.Data
 {
     public class MvcMovieContext : DbContext
     {
