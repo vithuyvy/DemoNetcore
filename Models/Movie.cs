@@ -9,7 +9,6 @@ namespace DemoMVC.Models
         [Key]
         public int Id { get; set; }
          [StringLength(60, MinimumLength = 3)]
-         [Required]
          [Column(TypeName="nvarchar(50)")]
          [Required(ErrorMessage="Title is required.")]
 

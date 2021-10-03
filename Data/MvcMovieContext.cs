@@ -14,15 +14,6 @@ namespace DemoMVC.Data
         }
 
         public DbSet<Movie> Movie { get; set; }
+        public DbSet<Student> Student { get; set; }
     }
 }
-
-    public class MvcMovieContext : DbContext
-    {
-        public MvcMovieContext (DbContextOptions<MvcMovieContext> options)
-            : base(options)
-        {
-        }
-
-        public DbSet<Movie> Movie { get; set; }
-    }
